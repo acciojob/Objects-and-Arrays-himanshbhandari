@@ -8,7 +8,7 @@ let team=players;
 let team1={};
 for(let i in players)
 	{
-		user1[i]=user[name];
+		team1[i]=players[name];
 	}
 
 let cap1={};
